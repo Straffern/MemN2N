@@ -52,6 +52,9 @@ def train(train_iter, model, optimizer, epochs, max_clip, valid_iter=None):
             total_loss = 0
         if train_iter.epoch == epochs:
             break
+        if ((train_iter.epoch + 1) % 25 == 0)
+            for g in optim.param_groups:
+                g['lr'] = g['lr']/2
 
 
 def eval(test_iter, model):
