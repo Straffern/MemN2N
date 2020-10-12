@@ -59,6 +59,11 @@ def train(train_iter, model, optimizer, epochs, max_clip, valid_iter=None):
 
 def eval(test_iter, model):
     total_error = 0
+    failed_tasks = []
+
+    story_vocab = test_iter.dataset.fields['story'].vocab
+    query_vocab = test_iter.dataset.fields['query'].vocab
+    answer_vocab = test_iter.dataset.fields['answer'].vocab
 
     for k, batch in enumerate(test_iter, start=1):
         story = batch.story
@@ -66,7 +71,18 @@ def eval(test_iter, model):
         answer = batch.answer
         outputs = model(story, query)
         _, outputs = torch.max(outputs, -1)
+        # log failed tasks
+        failed_tasks = failed_tasks + [    ([story_vocab.itos[s] for sublist in stry[0:3] for s in sublist if s != 0] ,
+                            [query_vocab.itos[s] for s in qry], 
+                            [answer_vocab.itos[s] for s in ans]) for i, (stry,qry,ans) 
+                        in enumerate(zip(story,query,answer)) 
+                        if outputs[i] != answer[i]]
+        
+
         total_error += torch.mean((outputs != answer.view(-1)).float()).item()
+    
+    # save failed_tasks to file:
+    
     print("#! average error: {:5.1f}".format(total_error / k * 100))
 
 
