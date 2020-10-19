@@ -1,0 +1,37 @@
+		||STORY||
+Mary and John went back to the bathroom
+Sandra and Daniel moved to the kitchen
+Sandra and Daniel journeyed to the bathroom
+Daniel and Sandra moved to the office
+Daniel and John moved to the kitchen
+Mary and Sandra went to the hallway
+		||QUESTION||
+Where is Sandra?
+		||ANSWER||
+kitchen
+		||PREDICTED||
+bathroom
+		||STORY||
+Sandra and John went to the bathroom
+Daniel and Sandra moved to the office
+John and Mary moved to the hallway
+John and Sandra went to the kitchen
+		||QUESTION||
+Where is Mary?
+		||ANSWER||
+hallway
+		||PREDICTED||
+bathroom
+		||STORY||
+Daniel and John moved to the office
+John and Sandra moved to the hallway
+Daniel and Mary journeyed to the kitchen
+Mary and John went to the bathroom
+Mary and Sandra moved to the office
+Mary and John went back to the garden
+		||QUESTION||
+Where is Mary?
+		||ANSWER||
+kitchen
+		||PREDICTED||
+office

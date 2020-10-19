@@ -1,0 +1,3204 @@
+		||STORY||
+John travelled to the bedroom
+Daniel travelled to the hallway
+Daniel and Mary went to the garden
+Mary and Sandra journeyed to the garden
+John moved to the bedroom
+Daniel went to the bedroom
+Mary and Sandra travelled to the kitchen
+Daniel went to the kitchen
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Daniel went to the bathroom
+Sandra and John went to the office
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John travelled to the bedroom
+Mary travelled to the office
+Sandra and Daniel went to the bathroom
+Sandra and John went to the office
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and John journeyed to the kitchen
+Daniel moved to the hallway
+Daniel and John journeyed to the hallway
+Sandra and Mary moved to the office
+John and Mary travelled to the bedroom
+Sandra and John moved to the bedroom
+John and Mary journeyed to the office
+John travelled to the bathroom
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and John went to the bedroom
+Sandra and Mary moved to the garden
+Mary journeyed to the hallway
+Sandra and Mary went to the bathroom
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John went to the garden
+Daniel and Sandra journeyed to the kitchen
+Sandra and John went to the bedroom
+Sandra and Mary moved to the garden
+Mary journeyed to the hallway
+Sandra and Mary went to the bathroom
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary and Sandra travelled to the kitchen
+Sandra journeyed to the bedroom
+John went to the garden
+Daniel moved to the garden
+John went to the garden
+Daniel and Sandra journeyed to the kitchen
+Sandra and John went to the bedroom
+Sandra and Mary moved to the garden
+Mary journeyed to the hallway
+Sandra and Mary went to the bathroom
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra journeyed to the bathroom
+John moved to the garden
+Daniel and Sandra journeyed to the hallway
+John and Daniel journeyed to the bedroom
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Daniel journeyed to the garden
+John and Sandra journeyed to the bathroom
+Sandra journeyed to the bathroom
+John moved to the garden
+Daniel and Sandra journeyed to the hallway
+John and Daniel journeyed to the bedroom
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Daniel travelled to the bedroom
+Sandra and John moved to the garden
+Sandra and Daniel journeyed to the garden
+John and Sandra journeyed to the bathroom
+Sandra journeyed to the bathroom
+John moved to the garden
+Daniel and Sandra journeyed to the hallway
+John and Daniel journeyed to the bedroom
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra went to the office
+Mary travelled to the bedroom
+Mary travelled to the office
+Daniel journeyed to the hallway
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Sandra went to the bedroom
+Mary and Daniel travelled to the office
+Daniel and Sandra travelled to the bathroom
+Mary and Sandra journeyed to the hallway
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Sandra moved to the bedroom
+Daniel and Mary travelled to the garden
+Daniel and Mary moved to the office
+Sandra and John journeyed to the office
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and John went to the office
+Daniel and Mary moved to the bedroom
+Sandra journeyed to the kitchen
+Mary travelled to the kitchen
+Mary journeyed to the hallway
+Daniel moved to the office
+Daniel and John moved to the bathroom
+Mary and Sandra travelled to the kitchen
+Sandra moved to the bedroom
+John went to the bedroom
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Mary travelled to the kitchen
+Sandra and John went to the hallway
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel travelled to the bedroom
+Sandra journeyed to the office
+Daniel and Mary travelled to the kitchen
+Sandra and John went to the hallway
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and John travelled to the garden
+Daniel and Sandra went to the kitchen
+John and Sandra went to the garden
+Sandra and Mary journeyed to the kitchen
+Daniel travelled to the bedroom
+Sandra journeyed to the office
+Daniel and Mary travelled to the kitchen
+Sandra and John went to the hallway
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary and Sandra journeyed to the hallway
+Daniel and Mary moved to the kitchen
+Daniel and John travelled to the garden
+Daniel and Sandra went to the kitchen
+John and Sandra went to the garden
+Sandra and Mary journeyed to the kitchen
+Daniel travelled to the bedroom
+Sandra journeyed to the office
+Daniel and Mary travelled to the kitchen
+Sandra and John went to the hallway
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and Mary moved to the garden
+John went to the kitchen
+John journeyed to the garden
+Mary went to the office
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and John travelled to the kitchen
+Mary and Daniel moved to the hallway
+Sandra and Mary journeyed to the bedroom
+John and Daniel moved to the bedroom
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and Mary travelled to the office
+John and Daniel journeyed to the bedroom
+Sandra and Daniel travelled to the hallway
+John and Sandra journeyed to the garden
+Sandra journeyed to the bathroom
+John travelled to the kitchen
+Sandra and John travelled to the kitchen
+Mary and Daniel moved to the hallway
+Sandra and Mary journeyed to the bedroom
+John and Daniel moved to the bedroom
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John went to the office
+Mary travelled to the bathroom
+Sandra went to the bathroom
+Daniel journeyed to the bathroom
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary travelled to the kitchen
+Daniel and Sandra journeyed to the bathroom
+Sandra went to the hallway
+Daniel moved to the office
+John journeyed to the hallway
+John and Mary journeyed to the garden
+John went to the office
+Mary travelled to the bathroom
+Sandra went to the bathroom
+Daniel journeyed to the bathroom
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel went to the kitchen
+John went to the garden
+Sandra and Daniel travelled to the hallway
+Daniel and Mary journeyed to the bathroom
+Daniel went to the hallway
+Mary journeyed to the hallway
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary moved to the garden
+Sandra moved to the bathroom
+Mary and Sandra moved to the kitchen
+John and Sandra travelled to the kitchen
+Daniel went to the kitchen
+John went to the garden
+Sandra and Daniel travelled to the hallway
+Daniel and Mary journeyed to the bathroom
+Daniel went to the hallway
+Mary journeyed to the hallway
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Sandra went to the kitchen
+Daniel and Sandra moved to the garden
+Sandra and Daniel journeyed to the bedroom
+Mary travelled to the office
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra journeyed to the bedroom
+Daniel and Sandra journeyed to the office
+Mary and Sandra went to the hallway
+Mary travelled to the office
+Daniel went to the hallway
+Daniel and Mary journeyed to the bathroom
+Mary and Sandra went to the kitchen
+Daniel and Sandra moved to the garden
+Sandra and Daniel journeyed to the bedroom
+Mary travelled to the office
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Daniel travelled to the garden
+Sandra and Mary moved to the kitchen
+Sandra journeyed to the office
+Sandra and Daniel journeyed to the garden
+Sandra and Daniel travelled to the office
+John and Mary went to the office
+John moved to the kitchen
+Mary travelled to the kitchen
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Daniel journeyed to the bathroom
+Daniel travelled to the kitchen
+Mary and Daniel travelled to the garden
+Sandra and Mary moved to the kitchen
+Sandra journeyed to the office
+Sandra and Daniel journeyed to the garden
+Sandra and Daniel travelled to the office
+John and Mary went to the office
+John moved to the kitchen
+Mary travelled to the kitchen
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and John went to the bedroom
+John and Mary went to the bathroom
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel travelled to the garden
+Mary travelled to the bathroom
+Daniel journeyed to the kitchen
+John and Daniel moved to the garden
+Mary went to the hallway
+John moved to the hallway
+Daniel and John went to the bedroom
+John and Mary went to the bathroom
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and John journeyed to the hallway
+Daniel and John moved to the office
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Mary travelled to the bedroom
+Daniel and Sandra moved to the office
+Mary and John journeyed to the hallway
+Daniel and John moved to the office
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John moved to the office
+Daniel went to the bedroom
+Sandra moved to the kitchen
+John travelled to the kitchen
+Daniel and John travelled to the office
+Sandra and Mary moved to the garden
+John and Mary travelled to the bedroom
+Daniel and Sandra moved to the office
+Mary and John journeyed to the hallway
+Daniel and John moved to the office
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Sandra travelled to the office
+Daniel moved to the garden
+Sandra and John went to the bathroom
+Daniel and Mary went to the bathroom
+Daniel and John journeyed to the hallway
+Sandra and Daniel travelled to the garden
+John moved to the garden
+Daniel and John went to the garden
+Daniel and Sandra travelled to the office
+Mary and Sandra moved to the garden
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel moved to the hallway
+Mary and John travelled to the bathroom
+Daniel and Sandra moved to the kitchen
+Mary and John went to the garden
+Daniel moved to the bedroom
+Mary journeyed to the bedroom
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel journeyed to the kitchen
+Sandra and John journeyed to the bathroom
+John and Sandra moved to the garden
+Daniel and Mary travelled to the bedroom
+Daniel moved to the hallway
+Mary and John travelled to the bathroom
+Daniel and Sandra moved to the kitchen
+Mary and John went to the garden
+Daniel moved to the bedroom
+Mary journeyed to the bedroom
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel moved to the bedroom
+Daniel and Mary travelled to the hallway
+Sandra journeyed to the garden
+Mary and Sandra went to the hallway
+Mary travelled to the garden
+John went to the hallway
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Mary moved to the bedroom
+Sandra and Mary travelled to the garden
+Daniel moved to the bedroom
+Daniel and Mary travelled to the hallway
+Sandra journeyed to the garden
+Mary and Sandra went to the hallway
+Mary travelled to the garden
+John went to the hallway
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel moved to the kitchen
+Sandra and John went to the office
+Daniel and Mary moved to the bedroom
+Sandra and Mary travelled to the garden
+Daniel moved to the bedroom
+Daniel and Mary travelled to the hallway
+Sandra journeyed to the garden
+Mary and Sandra went to the hallway
+Mary travelled to the garden
+John went to the hallway
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John journeyed to the bathroom
+Sandra journeyed to the bedroom
+Mary travelled to the garden
+Daniel journeyed to the garden
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary moved to the bathroom
+Sandra journeyed to the garden
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John went to the bedroom
+Sandra and John journeyed to the hallway
+Mary moved to the bathroom
+Sandra journeyed to the garden
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary travelled to the bedroom
+John moved to the hallway
+John went to the bedroom
+Sandra and John journeyed to the hallway
+Mary moved to the bathroom
+Sandra journeyed to the garden
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Mary moved to the kitchen
+Sandra and John moved to the bathroom
+Sandra and Mary travelled to the garden
+Sandra journeyed to the kitchen
+Daniel and Sandra travelled to the kitchen
+Mary and John went to the hallway
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary moved to the hallway
+Sandra travelled to the bedroom
+Daniel and Mary went to the bathroom
+Daniel and Sandra moved to the hallway
+Daniel and Mary moved to the kitchen
+Sandra and John moved to the bathroom
+Sandra and Mary travelled to the garden
+Sandra journeyed to the kitchen
+Daniel and Sandra travelled to the kitchen
+Mary and John went to the hallway
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary moved to the bedroom
+Daniel travelled to the office
+Mary and John travelled to the garden
+Mary and Sandra moved to the office
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Daniel journeyed to the office
+John journeyed to the bathroom
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Sandra journeyed to the office
+Daniel and Mary journeyed to the hallway
+Mary and John travelled to the kitchen
+Daniel and Sandra moved to the kitchen
+Daniel moved to the kitchen
+John went to the kitchen
+Sandra and Daniel journeyed to the office
+John journeyed to the bathroom
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Daniel travelled to the office
+Daniel and Mary journeyed to the bathroom
+Daniel went to the bathroom
+Mary moved to the hallway
+Daniel journeyed to the bedroom
+Sandra moved to the bathroom
+Daniel and Mary moved to the office
+John and Daniel moved to the office
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra journeyed to the bedroom
+Mary and Sandra journeyed to the hallway
+John and Daniel travelled to the office
+Daniel and Mary journeyed to the bathroom
+Daniel went to the bathroom
+Mary moved to the hallway
+Daniel journeyed to the bedroom
+Sandra moved to the bathroom
+Daniel and Mary moved to the office
+John and Daniel moved to the office
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Mary moved to the hallway
+Daniel and John journeyed to the kitchen
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary and Daniel travelled to the hallway
+Sandra and John moved to the kitchen
+Sandra travelled to the kitchen
+Mary and John travelled to the bathroom
+Sandra and Mary moved to the hallway
+Daniel and John journeyed to the kitchen
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and John moved to the garden
+Sandra and Mary moved to the bathroom
+Daniel journeyed to the kitchen
+Mary and John journeyed to the kitchen
+Daniel travelled to the hallway
+John travelled to the hallway
+Daniel travelled to the bathroom
+John went to the bathroom
+Sandra and Mary went to the kitchen
+John went to the kitchen
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Mary journeyed to the bedroom
+Sandra and Daniel travelled to the bathroom
+Mary journeyed to the bedroom
+Daniel moved to the bedroom
+Daniel went to the office
+Mary journeyed to the office
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John travelled to the office
+Sandra travelled to the bedroom
+Daniel and Mary went to the office
+Sandra and Mary journeyed to the garden
+John and Daniel went to the office
+Mary and John travelled to the garden
+Sandra and Mary journeyed to the hallway
+Daniel and John went to the hallway
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel moved to the bedroom
+Sandra travelled to the office
+Mary journeyed to the bedroom
+John travelled to the bedroom
+Daniel and John went to the bathroom
+Mary and Sandra journeyed to the kitchen
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Mary went to the bathroom
+Daniel and Mary moved to the bedroom
+Mary and John journeyed to the bedroom
+Daniel moved to the bedroom
+John and Sandra travelled to the hallway
+John and Daniel went to the hallway
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel went to the bedroom
+Mary and John went to the kitchen
+Mary journeyed to the bathroom
+John went to the bathroom
+John went to the office
+Daniel moved to the office
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary and Sandra went to the bedroom
+John and Sandra journeyed to the hallway
+John travelled to the office
+John and Daniel moved to the garden
+Mary went to the garden
+John moved to the office
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Daniel journeyed to the bedroom
+John and Sandra journeyed to the bathroom
+Mary and Sandra moved to the hallway
+Daniel moved to the bedroom
+Daniel travelled to the hallway
+Mary travelled to the office
+Daniel and Sandra travelled to the bathroom
+Mary and Daniel went to the garden
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Daniel moved to the bathroom
+John and Daniel travelled to the office
+Mary went to the hallway
+Sandra travelled to the hallway
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary travelled to the bathroom
+Daniel travelled to the garden
+Daniel and Sandra moved to the hallway
+Daniel journeyed to the bedroom
+Daniel travelled to the kitchen
+Sandra went to the garden
+Sandra and Daniel moved to the bathroom
+John and Daniel travelled to the office
+Mary went to the hallway
+Sandra travelled to the hallway
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Sandra travelled to the kitchen
+Mary and Daniel journeyed to the garden
+John went to the bedroom
+Sandra and Mary travelled to the kitchen
+John went to the office
+Mary moved to the office
+Daniel journeyed to the kitchen
+John and Daniel moved to the hallway
+John went to the bedroom
+Daniel travelled to the bedroom
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary went to the bathroom
+Sandra travelled to the garden
+Daniel travelled to the bathroom
+John moved to the hallway
+Daniel went to the garden
+Mary and Daniel travelled to the office
+Mary moved to the bathroom
+John and Mary journeyed to the hallway
+Sandra and Daniel journeyed to the garden
+Mary and John journeyed to the garden
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Mary travelled to the bedroom
+Daniel and Sandra went to the office
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary and Sandra went to the kitchen
+Daniel and John went to the bedroom
+Mary and Daniel journeyed to the bedroom
+Sandra went to the bedroom
+John and Mary travelled to the bedroom
+Daniel and Sandra went to the office
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and Mary travelled to the bedroom
+John and Daniel journeyed to the hallway
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and John travelled to the bedroom
+Daniel and Sandra went to the bathroom
+John journeyed to the bedroom
+Daniel travelled to the bathroom
+Daniel and John travelled to the garden
+Daniel travelled to the kitchen
+Sandra and Mary journeyed to the office
+John moved to the kitchen
+John and Sandra journeyed to the garden
+Mary and Daniel moved to the garden
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John travelled to the kitchen
+Daniel and Mary went to the garden
+Sandra and John went to the garden
+Mary and Daniel went to the hallway
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Sandra went to the bedroom
+John journeyed to the office
+Mary and Sandra journeyed to the kitchen
+Daniel journeyed to the kitchen
+John travelled to the kitchen
+Daniel and Mary went to the garden
+Sandra and John went to the garden
+Mary and Daniel went to the hallway
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel journeyed to the bathroom
+Sandra journeyed to the bedroom
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Daniel travelled to the bedroom
+Sandra and Mary went to the bathroom
+Sandra journeyed to the hallway
+Daniel moved to the bathroom
+Daniel travelled to the bedroom
+Sandra moved to the bedroom
+Daniel journeyed to the bathroom
+Sandra journeyed to the bedroom
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Daniel went to the bathroom
+Sandra moved to the kitchen
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary and Daniel journeyed to the bathroom
+Daniel journeyed to the kitchen
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary journeyed to the garden
+Daniel journeyed to the bedroom
+Mary and John travelled to the hallway
+Daniel and Mary travelled to the bedroom
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Mary journeyed to the bathroom
+Daniel journeyed to the kitchen
+Daniel went to the garden
+John travelled to the garden
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and Mary travelled to the garden
+Mary and John journeyed to the office
+Mary and John moved to the bathroom
+Daniel and Sandra moved to the bathroom
+Daniel went to the hallway
+Sandra went to the hallway
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Mary moved to the kitchen
+Daniel and Sandra moved to the bathroom
+Daniel travelled to the office
+John journeyed to the garden
+Sandra journeyed to the office
+Sandra and Mary moved to the hallway
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John travelled to the office
+Sandra and Daniel went to the office
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John went to the kitchen
+Mary and Daniel moved to the hallway
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra journeyed to the kitchen
+Mary and Daniel journeyed to the bedroom
+Sandra travelled to the bathroom
+Mary travelled to the bedroom
+John went to the kitchen
+Mary and Daniel moved to the hallway
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John and Sandra travelled to the bedroom
+Mary and John journeyed to the garden
+Sandra journeyed to the office
+Mary travelled to the office
+Sandra journeyed to the kitchen
+Mary and Daniel journeyed to the bedroom
+Sandra travelled to the bathroom
+Mary travelled to the bedroom
+John went to the kitchen
+Mary and Daniel moved to the hallway
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Mary journeyed to the kitchen
+Daniel travelled to the bathroom
+Daniel and Mary travelled to the hallway
+John moved to the hallway
+Sandra and Daniel moved to the bedroom
+John and Mary went to the bedroom
+Sandra journeyed to the garden
+Mary travelled to the garden
+Daniel journeyed to the hallway
+Sandra and Daniel travelled to the bathroom
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and John went to the bathroom
+Sandra and Mary travelled to the office
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Mary travelled to the bathroom
+Daniel journeyed to the bedroom
+Mary and John went to the bathroom
+Sandra and Mary travelled to the office
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Sandra travelled to the bathroom
+John moved to the kitchen
+Sandra journeyed to the hallway
+John moved to the garden
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and John moved to the bathroom
+Sandra moved to the kitchen
+John moved to the office
+Daniel travelled to the garden
+Mary and Sandra travelled to the bathroom
+John moved to the kitchen
+Sandra journeyed to the hallway
+John moved to the garden
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra journeyed to the kitchen
+Mary and John journeyed to the hallway
+Sandra and Mary moved to the hallway
+Daniel journeyed to the kitchen
+Daniel journeyed to the hallway
+John and Daniel went to the bedroom
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary went to the kitchen
+Daniel and Sandra went to the bathroom
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra journeyed to the office
+Mary went to the bathroom
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary travelled to the kitchen
+Daniel and John went to the bedroom
+Sandra journeyed to the office
+Mary went to the bathroom
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra journeyed to the kitchen
+Mary and John went to the garden
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel moved to the office
+Sandra went to the bathroom
+Sandra and John went to the kitchen
+Mary and Sandra moved to the bedroom
+Sandra journeyed to the kitchen
+Mary and John went to the garden
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Mary journeyed to the kitchen
+Daniel and John travelled to the office
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and John travelled to the office
+Daniel went to the kitchen
+Sandra and Mary journeyed to the kitchen
+Daniel and John travelled to the office
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and John travelled to the bedroom
+Sandra and Daniel journeyed to the hallway
+Mary and Sandra went to the bathroom
+John and Daniel journeyed to the bathroom
+Mary and Daniel journeyed to the kitchen
+Sandra journeyed to the kitchen
+Sandra and John travelled to the office
+Daniel went to the kitchen
+Sandra and Mary journeyed to the kitchen
+Daniel and John travelled to the office
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel moved to the garden
+Sandra travelled to the bedroom
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra went to the kitchen
+Daniel and John moved to the hallway
+Sandra and John moved to the kitchen
+Daniel and Mary went to the office
+Mary travelled to the bathroom
+John journeyed to the bathroom
+Daniel moved to the garden
+Sandra travelled to the bedroom
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John and Daniel travelled to the kitchen
+Mary and Sandra journeyed to the bathroom
+Sandra journeyed to the office
+John journeyed to the office
+Sandra went to the bedroom
+Sandra and Mary journeyed to the bedroom
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and Sandra moved to the office
+Mary and John journeyed to the hallway
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and John journeyed to the hallway
+John and Daniel journeyed to the bedroom
+John and Sandra journeyed to the office
+Daniel and Mary journeyed to the garden
+Daniel travelled to the kitchen
+John moved to the kitchen
+John went to the hallway
+Daniel travelled to the garden
+Daniel and Sandra moved to the office
+Mary and John journeyed to the hallway
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Mary journeyed to the bathroom
+Mary journeyed to the kitchen
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and John went to the kitchen
+Mary and Sandra journeyed to the bedroom
+John and Mary journeyed to the bathroom
+Mary journeyed to the kitchen
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John and Mary moved to the bedroom
+Sandra and John moved to the garden
+Mary moved to the hallway
+Daniel went to the hallway
+John and Daniel journeyed to the garden
+Sandra and Mary travelled to the garden
+Sandra moved to the bathroom
+Daniel journeyed to the bathroom
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Sandra travelled to the bedroom
+Mary and John travelled to the bathroom
+John and Mary moved to the bedroom
+Sandra and John moved to the garden
+Mary moved to the hallway
+Daniel went to the hallway
+John and Daniel journeyed to the garden
+Sandra and Mary travelled to the garden
+Sandra moved to the bathroom
+Daniel journeyed to the bathroom
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra journeyed to the garden
+Daniel journeyed to the bathroom
+Daniel travelled to the hallway
+Mary moved to the office
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John journeyed to the garden
+Mary went to the bedroom
+John and Mary went to the office
+Sandra and John journeyed to the office
+Sandra journeyed to the garden
+Daniel journeyed to the bathroom
+Daniel travelled to the hallway
+Mary moved to the office
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and John journeyed to the hallway
+John travelled to the kitchen
+John journeyed to the garden
+Mary went to the bedroom
+John and Mary went to the office
+Sandra and John journeyed to the office
+Sandra journeyed to the garden
+Daniel journeyed to the bathroom
+Daniel travelled to the hallway
+Mary moved to the office
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and Mary journeyed to the bedroom
+Sandra moved to the office
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel travelled to the garden
+John moved to the bathroom
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel travelled to the bedroom
+Mary and John journeyed to the kitchen
+Sandra journeyed to the office
+Daniel travelled to the kitchen
+Mary went to the kitchen
+Sandra moved to the kitchen
+Sandra travelled to the garden
+Mary moved to the garden
+Daniel travelled to the garden
+John moved to the bathroom
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra went to the hallway
+Mary went to the bedroom
+Daniel and Sandra travelled to the hallway
+Sandra travelled to the bedroom
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and John moved to the garden
+Daniel and John moved to the bedroom
+Sandra went to the hallway
+Mary went to the bedroom
+Daniel and Sandra travelled to the hallway
+Sandra travelled to the bedroom
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John went to the garden
+Mary and John travelled to the bathroom
+Daniel moved to the kitchen
+Sandra moved to the kitchen
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Mary went to the bathroom
+John journeyed to the kitchen
+John went to the garden
+Mary and John travelled to the bathroom
+Daniel moved to the kitchen
+Sandra moved to the kitchen
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and Mary moved to the garden
+Mary moved to the hallway
+John moved to the kitchen
+John and Daniel went to the garden
+Mary and John travelled to the bedroom
+Daniel and Sandra travelled to the bedroom
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and Mary journeyed to the garden
+Daniel and John journeyed to the bathroom
+Mary travelled to the kitchen
+Daniel moved to the kitchen
+Sandra moved to the bathroom
+Mary moved to the bathroom
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Daniel went to the kitchen
+Daniel and John moved to the bedroom
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and Daniel journeyed to the kitchen
+Mary and John went to the bedroom
+Sandra and John moved to the garden
+Sandra moved to the kitchen
+John travelled to the bedroom
+John and Sandra moved to the bathroom
+Sandra and Daniel went to the kitchen
+Daniel and John moved to the bedroom
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra moved to the kitchen
+Mary and Daniel moved to the bathroom
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and John journeyed to the kitchen
+Mary and Daniel went to the hallway
+John travelled to the garden
+Mary went to the garden
+Sandra and John moved to the hallway
+Daniel and Mary went to the hallway
+Sandra moved to the kitchen
+Mary and Daniel moved to the bathroom
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and John went to the bedroom
+Mary and Sandra travelled to the office
+Daniel journeyed to the hallway
+Mary and Daniel travelled to the office
+Sandra and Mary went to the kitchen
+Mary and Daniel moved to the kitchen
+Mary and Daniel moved to the hallway
+John journeyed to the hallway
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Mary journeyed to the bathroom
+John went to the office
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Mary journeyed to the garden
+John and Mary journeyed to the kitchen
+Sandra and Mary journeyed to the bathroom
+John went to the office
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and John moved to the bedroom
+Sandra went to the office
+Daniel and Mary journeyed to the garden
+John and Mary journeyed to the kitchen
+Sandra and Mary journeyed to the bathroom
+John went to the office
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Daniel moved to the garden
+Mary and Sandra moved to the bedroom
+Mary and John moved to the bedroom
+Sandra went to the office
+Daniel and Mary journeyed to the garden
+John and Mary journeyed to the kitchen
+Sandra and Mary journeyed to the bathroom
+John went to the office
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and Sandra journeyed to the bathroom
+Mary travelled to the kitchen
+Sandra travelled to the garden
+Mary travelled to the bedroom
+Daniel moved to the hallway
+John travelled to the hallway
+Sandra went to the bedroom
+Mary and Sandra journeyed to the bathroom
+Daniel went to the bathroom
+John and Daniel travelled to the office
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John went to the office
+Sandra went to the bedroom
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra travelled to the bedroom
+John and Sandra went to the hallway
+Daniel and Mary travelled to the garden
+John and Daniel journeyed to the hallway
+Sandra moved to the bedroom
+John and Daniel journeyed to the bathroom
+Mary and Daniel journeyed to the kitchen
+John and Sandra went to the kitchen
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Daniel went to the office
+Sandra travelled to the bathroom
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and John went to the kitchen
+Sandra and Daniel journeyed to the office
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary moved to the hallway
+Sandra moved to the bedroom
+Mary went to the office
+Daniel went to the kitchen
+Sandra moved to the office
+Daniel and John went to the office
+Daniel and John journeyed to the garden
+Sandra and Mary went to the kitchen
+Sandra and John went to the kitchen
+Sandra and Daniel journeyed to the office
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and John moved to the garden
+Daniel went to the office
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John moved to the kitchen
+Mary and Sandra travelled to the garden
+Daniel and Mary went to the office
+Sandra and John journeyed to the bedroom
+Daniel and John moved to the garden
+Daniel went to the office
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John travelled to the garden
+Daniel moved to the bathroom
+Daniel journeyed to the garden
+John and Mary went to the office
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Sandra travelled to the bedroom
+John and Daniel journeyed to the garden
+John travelled to the garden
+Daniel moved to the bathroom
+Daniel journeyed to the garden
+John and Mary went to the office
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Mary travelled to the bedroom
+John and Sandra journeyed to the office
+Mary went to the kitchen
+Daniel travelled to the bedroom
+Sandra and Mary moved to the hallway
+Daniel travelled to the kitchen
+John and Mary moved to the bathroom
+John and Sandra travelled to the bedroom
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Mary went to the office
+Daniel travelled to the kitchen
+John travelled to the hallway
+Sandra journeyed to the hallway
+John went to the hallway
+Mary journeyed to the office
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John and Sandra journeyed to the garden
+John and Mary travelled to the bathroom
+Daniel journeyed to the garden
+John went to the garden
+Daniel went to the garden
+John went to the kitchen
+Mary and Sandra journeyed to the kitchen
+John journeyed to the kitchen
+Mary and John went to the hallway
+Daniel and Sandra moved to the hallway
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Daniel went to the office
+Sandra and Daniel went to the bathroom
+Mary and Daniel went to the garden
+John journeyed to the garden
+Mary journeyed to the garden
+Daniel travelled to the garden
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and John moved to the office
+Mary and Sandra went to the kitchen
+Mary and Sandra travelled to the hallway
+Daniel and John journeyed to the bathroom
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and Mary travelled to the hallway
+Sandra and Daniel moved to the bedroom
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Sandra travelled to the garden
+John and Sandra went to the bathroom
+Daniel travelled to the kitchen
+John moved to the bedroom
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Sandra journeyed to the office
+Daniel and Mary moved to the hallway
+Mary and John moved to the bedroom
+Daniel travelled to the office
+Daniel and Sandra travelled to the garden
+John and Sandra went to the bathroom
+Daniel travelled to the kitchen
+John moved to the bedroom
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra went to the office
+Mary and John travelled to the bathroom
+Sandra and Daniel journeyed to the hallway
+John and Sandra travelled to the garden
+John travelled to the bathroom
+Daniel and John moved to the kitchen
+John went to the bedroom
+Mary went to the bedroom
+Mary and Daniel went to the garden
+Sandra and John travelled to the garden
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and John moved to the office
+John and Daniel went to the kitchen
+Mary went to the garden
+Daniel travelled to the garden
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John journeyed to the office
+Daniel and John travelled to the bathroom
+Mary and Daniel travelled to the bedroom
+John and Daniel went to the bathroom
+Daniel and John journeyed to the garden
+Sandra moved to the bathroom
+Mary and John moved to the office
+John and Daniel went to the kitchen
+Mary went to the garden
+Daniel travelled to the garden
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Mary moved to the bedroom
+John and Daniel journeyed to the office
+John went to the bathroom
+Sandra and John went to the bedroom
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Mary moved to the hallway
+Daniel and Sandra went to the bedroom
+John and Sandra travelled to the hallway
+Daniel and Mary travelled to the hallway
+John journeyed to the kitchen
+John and Sandra moved to the garden
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Sandra travelled to the garden
+John and Sandra journeyed to the kitchen
+John and Mary journeyed to the bedroom
+Sandra travelled to the bedroom
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra journeyed to the bathroom
+Sandra and Daniel went to the bathroom
+John travelled to the office
+Mary moved to the kitchen
+Daniel went to the office
+Sandra journeyed to the office
+Daniel and Sandra travelled to the garden
+John and Sandra journeyed to the kitchen
+John and Mary journeyed to the bedroom
+Sandra travelled to the bedroom
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary and Daniel journeyed to the kitchen
+Sandra and John moved to the office
+Sandra and Mary journeyed to the office
+Daniel and John journeyed to the garden
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra went to the bedroom
+Sandra and Daniel travelled to the hallway
+Sandra journeyed to the garden
+John travelled to the garden
+Mary and Sandra travelled to the garden
+John and Mary moved to the kitchen
+Mary and Daniel journeyed to the kitchen
+Sandra and John moved to the office
+Sandra and Mary journeyed to the office
+Daniel and John journeyed to the garden
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel moved to the bathroom
+Mary travelled to the office
+Mary moved to the kitchen
+John journeyed to the kitchen
+Mary went to the bathroom
+Sandra travelled to the hallway
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John journeyed to the bedroom
+Mary and Daniel journeyed to the bathroom
+Daniel moved to the bathroom
+Mary travelled to the office
+Mary moved to the kitchen
+John journeyed to the kitchen
+Mary went to the bathroom
+Sandra travelled to the hallway
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John journeyed to the kitchen
+Mary travelled to the garden
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John went to the office
+Sandra went to the bedroom
+Mary travelled to the garden
+Daniel travelled to the office
+Mary and Sandra travelled to the bathroom
+John and Mary went to the bedroom
+Mary and Sandra moved to the kitchen
+Daniel and John journeyed to the kitchen
+John journeyed to the kitchen
+Mary travelled to the garden
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Sandra travelled to the garden
+Mary and Daniel journeyed to the bathroom
+John and Sandra went to the hallway
+Daniel and Mary travelled to the hallway
+Mary and Daniel went to the garden
+Sandra travelled to the bathroom
+Mary and Sandra went to the kitchen
+Mary and Daniel journeyed to the bedroom
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Mary travelled to the office
+John and Sandra went to the bathroom
+John and Sandra travelled to the garden
+Mary and Daniel journeyed to the bathroom
+John and Sandra went to the hallway
+Daniel and Mary travelled to the hallway
+Mary and Daniel went to the garden
+Sandra travelled to the bathroom
+Mary and Sandra went to the kitchen
+Mary and Daniel journeyed to the bedroom
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Sandra moved to the bedroom
+Daniel and Mary went to the bathroom
+Mary and Daniel went to the hallway
+Sandra and Daniel went to the bedroom
+Daniel went to the kitchen
+Sandra moved to the kitchen
+Sandra went to the bedroom
+John went to the bedroom
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra travelled to the garden
+Daniel journeyed to the bedroom
+Daniel travelled to the bathroom
+Mary and Daniel went to the kitchen
+John and Mary went to the garden
+Sandra and Mary went to the hallway
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Daniel went to the bedroom
+Sandra journeyed to the hallway
+Sandra travelled to the garden
+Daniel journeyed to the bedroom
+Daniel travelled to the bathroom
+Mary and Daniel went to the kitchen
+John and Mary went to the garden
+Sandra and Mary went to the hallway
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Mary went to the bedroom
+Sandra and Daniel went to the office
+Sandra travelled to the bedroom
+Mary and Daniel moved to the hallway
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John went to the kitchen
+Sandra journeyed to the garden
+Mary and Sandra went to the kitchen
+John and Daniel went to the bedroom
+Daniel moved to the garden
+John travelled to the office
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and John moved to the garden
+Mary and John travelled to the bedroom
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and John went to the office
+Daniel and Mary travelled to the bedroom
+Daniel journeyed to the office
+Sandra and Daniel travelled to the bathroom
+Sandra and John moved to the garden
+Mary and John travelled to the bedroom
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Mary moved to the kitchen
+Mary moved to the office
+Sandra and John went to the office
+Daniel and Mary travelled to the bedroom
+Daniel journeyed to the office
+Sandra and Daniel travelled to the bathroom
+Sandra and John moved to the garden
+Mary and John travelled to the bedroom
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel journeyed to the office
+Sandra and John travelled to the garden
+Sandra and Daniel journeyed to the kitchen
+John went to the kitchen
+Sandra moved to the garden
+Mary travelled to the bedroom
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John moved to the bedroom
+Daniel and John travelled to the kitchen
+Mary travelled to the garden
+Sandra went to the garden
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra travelled to the kitchen
+Mary and Daniel travelled to the garden
+Sandra moved to the hallway
+John and Sandra moved to the garden
+Sandra and John moved to the office
+Sandra and Mary went to the office
+Mary and John travelled to the bathroom
+Mary and Sandra journeyed to the hallway
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Mary went to the hallway
+Daniel and Sandra journeyed to the office
+Sandra travelled to the kitchen
+Mary and Daniel travelled to the garden
+Sandra moved to the hallway
+John and Sandra moved to the garden
+Sandra and John moved to the office
+Sandra and Mary went to the office
+Mary and John travelled to the bathroom
+Mary and Sandra journeyed to the hallway
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Daniel journeyed to the hallway
+Sandra and Daniel travelled to the kitchen
+John and Sandra moved to the bedroom
+Mary and Daniel moved to the garden
+John and Sandra went to the bedroom
+Daniel and John went to the bedroom
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel moved to the bedroom
+Mary and Sandra journeyed to the bathroom
+Daniel and Sandra journeyed to the garden
+John and Daniel moved to the bedroom
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary and John moved to the bedroom
+Daniel and Sandra journeyed to the garden
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Mary went to the hallway
+John went to the bedroom
+Mary and John moved to the bedroom
+Daniel and Sandra journeyed to the garden
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and John travelled to the office
+Sandra and John journeyed to the hallway
+John and Daniel moved to the bathroom
+Mary and Sandra went to the bathroom
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel moved to the bedroom
+Mary and John journeyed to the kitchen
+Daniel and Sandra journeyed to the garden
+Daniel went to the bedroom
+Mary and John travelled to the office
+Sandra and John journeyed to the hallway
+John and Daniel moved to the bathroom
+Mary and Sandra went to the bathroom
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and John travelled to the office
+Mary and Daniel went to the bedroom
+John and Sandra travelled to the hallway
+Daniel journeyed to the bedroom
+Mary and Sandra journeyed to the garden
+John moved to the bedroom
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John journeyed to the hallway
+Mary and Daniel journeyed to the office
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John travelled to the hallway
+Mary and Daniel travelled to the bedroom
+John journeyed to the hallway
+Mary and Daniel journeyed to the office
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary and Daniel moved to the kitchen
+Sandra travelled to the hallway
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and John journeyed to the bedroom
+John and Sandra journeyed to the office
+John and Mary went to the bedroom
+Daniel and John travelled to the hallway
+John moved to the garden
+John and Daniel moved to the kitchen
+Mary and Daniel moved to the kitchen
+Sandra travelled to the hallway
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John journeyed to the office
+John and Sandra journeyed to the bathroom
+Sandra travelled to the bedroom
+Mary journeyed to the bedroom
+Mary went to the garden
+John went to the bedroom
+Mary and John moved to the bedroom
+Daniel and Sandra travelled to the bedroom
+Sandra journeyed to the bedroom
+John moved to the bathroom
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and John journeyed to the garden
+Daniel and John journeyed to the bathroom
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and John travelled to the office
+Mary and Daniel travelled to the kitchen
+John and Sandra journeyed to the hallway
+Mary and Daniel travelled to the hallway
+Daniel journeyed to the garden
+Sandra went to the office
+Sandra and John journeyed to the garden
+Daniel and John journeyed to the bathroom
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary and Daniel moved to the bathroom
+Sandra went to the garden
+Sandra and John travelled to the office
+Mary and Daniel travelled to the kitchen
+John and Sandra journeyed to the hallway
+Mary and Daniel travelled to the hallway
+Daniel journeyed to the garden
+Sandra went to the office
+Sandra and John journeyed to the garden
+Daniel and John journeyed to the bathroom
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Sandra moved to the kitchen
+Sandra and Mary travelled to the garden
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and John went to the bathroom
+Mary and Sandra travelled to the garden
+Daniel moved to the office
+Mary moved to the office
+Daniel and John moved to the kitchen
+Sandra and Mary moved to the kitchen
+Mary journeyed to the kitchen
+Sandra moved to the kitchen
+Daniel and Sandra moved to the kitchen
+Sandra and Mary travelled to the garden
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John travelled to the bathroom
+Daniel and Sandra moved to the kitchen
+John and Sandra travelled to the bathroom
+Mary and John journeyed to the office
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John and Sandra moved to the bedroom
+Mary and John travelled to the bathroom
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra went to the bathroom
+Mary moved to the garden
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra journeyed to the kitchen
+Mary and John travelled to the bedroom
+Sandra travelled to the bedroom
+Daniel travelled to the garden
+Sandra went to the bathroom
+Mary moved to the garden
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John went to the bedroom
+Daniel and Mary moved to the hallway
+Mary journeyed to the kitchen
+Sandra moved to the bedroom
+Sandra journeyed to the kitchen
+Mary and John travelled to the bedroom
+Sandra travelled to the bedroom
+Daniel travelled to the garden
+Sandra went to the bathroom
+Mary moved to the garden
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Mary travelled to the bathroom
+Daniel moved to the garden
+Daniel went to the hallway
+John journeyed to the hallway
+Daniel and John journeyed to the hallway
+John and Mary travelled to the garden
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and John journeyed to the bedroom
+John and Daniel journeyed to the bathroom
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra journeyed to the office
+Daniel and John went to the kitchen
+Mary and John journeyed to the bedroom
+John and Daniel journeyed to the bathroom
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and Mary travelled to the kitchen
+Daniel went to the office
+Sandra journeyed to the office
+Daniel and John went to the kitchen
+Mary and John journeyed to the bedroom
+John and Daniel journeyed to the bathroom
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and John journeyed to the kitchen
+Sandra went to the bathroom
+Sandra moved to the garden
+Mary and Sandra went to the office
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John moved to the garden
+Sandra moved to the bedroom
+Daniel travelled to the bathroom
+Sandra journeyed to the hallway
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and John travelled to the bathroom
+Mary and Daniel journeyed to the garden
+John moved to the garden
+Sandra moved to the bedroom
+Daniel travelled to the bathroom
+Sandra journeyed to the hallway
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary and Daniel travelled to the bathroom
+Daniel and John journeyed to the garden
+Daniel went to the office
+John went to the office
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary went to the bedroom
+Daniel and Sandra went to the garden
+Sandra journeyed to the bathroom
+Sandra and Mary moved to the bedroom
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John and Mary journeyed to the garden
+Daniel travelled to the kitchen
+Sandra and John moved to the kitchen
+Daniel and Mary journeyed to the kitchen
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John moved to the bedroom
+Daniel and Sandra travelled to the office
+Daniel journeyed to the hallway
+Sandra went to the office
+John and Mary journeyed to the garden
+Daniel travelled to the kitchen
+Sandra and John moved to the kitchen
+Daniel and Mary journeyed to the kitchen
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Daniel journeyed to the bedroom
+Daniel journeyed to the kitchen
+Daniel went to the kitchen
+Mary and John travelled to the garden
+Mary and Daniel went to the bedroom
+Mary and John travelled to the bedroom
+Daniel moved to the garden
+John travelled to the garden
+Sandra and John travelled to the hallway
+Sandra and Mary journeyed to the office
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and Sandra went to the bedroom
+John and Sandra moved to the garden
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Sandra journeyed to the hallway
+Daniel and John journeyed to the bathroom
+Daniel journeyed to the hallway
+Mary went to the kitchen
+Daniel and Sandra went to the bedroom
+John and Sandra moved to the garden
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John and Daniel moved to the hallway
+John and Mary went to the kitchen
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John travelled to the kitchen
+Mary and John travelled to the garden
+John went to the garden
+Mary travelled to the office
+Mary and John travelled to the bathroom
+Sandra and Mary journeyed to the bedroom
+John and Daniel moved to the hallway
+John and Mary went to the kitchen
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Daniel moved to the hallway
+Sandra travelled to the bathroom
+Mary went to the office
+Daniel went to the office
+Mary moved to the kitchen
+Daniel travelled to the kitchen
+Daniel journeyed to the bedroom
+Mary and John went to the bedroom
+John moved to the kitchen
+Sandra journeyed to the bedroom
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary and John moved to the bedroom
+Daniel and Sandra moved to the kitchen
+Mary and Sandra moved to the hallway
+Mary went to the office
+John moved to the bathroom
+John and Daniel journeyed to the office
+Mary went to the bathroom
+John travelled to the kitchen
+Mary and John went to the hallway
+Sandra and Daniel journeyed to the hallway
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Mary moved to the hallway
+Sandra and Daniel journeyed to the bedroom
+Mary travelled to the kitchen
+Sandra journeyed to the kitchen
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Mary journeyed to the garden
+John and Sandra travelled to the bathroom
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary travelled to the kitchen
+Daniel travelled to the bathroom
+John and Daniel travelled to the garden
+Sandra and Daniel journeyed to the hallway
+John and Mary journeyed to the garden
+John and Sandra travelled to the bathroom
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Sandra moved to the hallway
+Mary and Daniel moved to the bedroom
+John travelled to the garden
+Mary moved to the garden
+Daniel moved to the hallway
+Mary and Daniel moved to the office
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John travelled to the office
+Sandra went to the bedroom
+		||QUESTION||
+Are John and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Daniel went to the bedroom
+Sandra and Mary moved to the bathroom
+John journeyed to the bathroom
+John and Mary travelled to the kitchen
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Daniel went to the garden
+Sandra and Daniel travelled to the hallway
+Mary went to the bedroom
+Daniel travelled to the bedroom
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Mary and Daniel went to the garden
+Sandra and John moved to the kitchen
+John went to the hallway
+Mary and John went to the hallway
+Sandra and John went to the office
+John travelled to the hallway
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Mary went to the office
+Daniel and Sandra journeyed to the kitchen
+Mary journeyed to the garden
+Sandra travelled to the garden
+Daniel and John travelled to the garden
+Mary and John moved to the garden
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and Mary travelled to the hallway
+John journeyed to the kitchen
+John and Mary went to the office
+Daniel and Sandra journeyed to the kitchen
+Mary journeyed to the garden
+Sandra travelled to the garden
+Daniel and John travelled to the garden
+Mary and John moved to the garden
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+John travelled to the hallway
+Sandra went to the bedroom
+Mary and Daniel went to the office
+Sandra went to the office
+John went to the bathroom
+John and Sandra went to the bedroom
+Daniel and Sandra journeyed to the hallway
+John journeyed to the hallway
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel travelled to the bathroom
+John and Daniel went to the garden
+John travelled to the hallway
+Sandra went to the bedroom
+Mary and Daniel went to the office
+Sandra went to the office
+John went to the bathroom
+John and Sandra went to the bedroom
+Daniel and Sandra journeyed to the hallway
+John journeyed to the hallway
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra went to the hallway
+Mary and Daniel moved to the garden
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and Sandra moved to the kitchen
+John travelled to the hallway
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra and John travelled to the hallway
+Mary and Daniel moved to the office
+Sandra and Mary moved to the kitchen
+John travelled to the kitchen
+Mary and Sandra journeyed to the kitchen
+John moved to the kitchen
+John journeyed to the office
+John and Daniel travelled to the garden
+Daniel and Sandra moved to the kitchen
+John travelled to the hallway
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra moved to the bedroom
+John journeyed to the bathroom
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel went to the bedroom
+Mary went to the hallway
+Sandra moved to the bedroom
+John journeyed to the bathroom
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel travelled to the bathroom
+Sandra travelled to the bedroom
+Sandra and Mary journeyed to the bedroom
+Sandra and John moved to the bedroom
+Daniel and Mary went to the office
+Daniel and Sandra travelled to the office
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Sandra travelled to the garden
+John and Daniel journeyed to the kitchen
+Daniel travelled to the bathroom
+Sandra travelled to the bedroom
+Sandra and Mary journeyed to the bedroom
+Sandra and John moved to the bedroom
+Daniel and Mary went to the office
+Daniel and Sandra travelled to the office
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Sandra travelled to the garden
+Daniel and Mary moved to the bathroom
+Daniel and Sandra journeyed to the hallway
+John and Mary travelled to the bathroom
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and John travelled to the bedroom
+Mary and Daniel went to the bathroom
+John travelled to the kitchen
+Sandra went to the kitchen
+Sandra went to the garden
+Mary journeyed to the kitchen
+Daniel and Mary went to the kitchen
+Sandra travelled to the office
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Sandra moved to the bedroom
+Mary journeyed to the hallway
+		||QUESTION||
+Are Sandra and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John moved to the bathroom
+Daniel travelled to the garden
+Mary journeyed to the bedroom
+Sandra journeyed to the kitchen
+Sandra moved to the bedroom
+Mary journeyed to the hallway
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John moved to the office
+John and Sandra moved to the bathroom
+Daniel moved to the bedroom
+Mary and Daniel journeyed to the garden
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John journeyed to the office
+Mary travelled to the hallway
+Sandra journeyed to the bedroom
+Mary and Sandra went to the kitchen
+John moved to the office
+John and Sandra moved to the bathroom
+Daniel moved to the bedroom
+Mary and Daniel journeyed to the garden
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Daniel and Mary travelled to the bedroom
+Daniel and John journeyed to the garden
+		||QUESTION||
+Are Mary and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Sandra moved to the office
+John and Daniel went to the hallway
+Daniel and Mary travelled to the bedroom
+Daniel and John journeyed to the garden
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra journeyed to the garden
+Daniel moved to the bathroom
+Mary and Sandra moved to the hallway
+Daniel and John journeyed to the hallway
+John and Sandra moved to the office
+John and Daniel went to the hallway
+Daniel and Mary travelled to the bedroom
+Daniel and John journeyed to the garden
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John and Mary went to the garden
+Daniel and Sandra moved to the hallway
+Sandra journeyed to the garden
+Daniel moved to the bathroom
+Mary and Sandra moved to the hallway
+Daniel and John journeyed to the hallway
+John and Sandra moved to the office
+John and Daniel went to the hallway
+Daniel and Mary travelled to the bedroom
+Daniel and John journeyed to the garden
+		||QUESTION||
+Are Sandra and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel and John went to the kitchen
+John and Sandra journeyed to the bedroom
+Mary and Daniel moved to the hallway
+Sandra and John moved to the kitchen
+		||QUESTION||
+Are John and Daniel at the same place?
+		||ANSWER||
+Yes
+		||PREDICTED||
+No
+		||STORY||
+Daniel journeyed to the kitchen
+Mary journeyed to the garden
+John and Mary journeyed to the hallway
+John and Sandra travelled to the garden
+Daniel and John went to the kitchen
+John and Sandra journeyed to the bedroom
+Mary and Daniel moved to the hallway
+Sandra and John moved to the kitchen
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and John moved to the office
+Mary and Daniel went to the bedroom
+		||QUESTION||
+Are Mary and Daniel at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Sandra journeyed to the garden
+Daniel and Mary journeyed to the kitchen
+John went to the hallway
+Daniel and John moved to the office
+Mary and John moved to the office
+Mary and Daniel went to the bedroom
+		||QUESTION||
+Are Daniel and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+John travelled to the office
+Daniel journeyed to the bathroom
+Sandra and Mary moved to the garden
+Sandra moved to the bathroom
+Mary and Sandra journeyed to the garden
+Daniel and Mary journeyed to the kitchen
+John went to the hallway
+Daniel and John moved to the office
+Mary and John moved to the office
+Mary and Daniel went to the bedroom
+		||QUESTION||
+Are Daniel and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and John journeyed to the bathroom
+Sandra and Mary travelled to the office
+Daniel and Mary journeyed to the garden
+John journeyed to the garden
+Daniel and John moved to the hallway
+John and Sandra went to the bathroom
+Daniel and Mary journeyed to the bedroom
+Sandra went to the bedroom
+		||QUESTION||
+Are Sandra and John at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary moved to the office
+Sandra journeyed to the bathroom
+Daniel went to the bathroom
+Mary journeyed to the bathroom
+Daniel moved to the garden
+Mary went to the hallway
+Sandra journeyed to the bathroom
+Mary travelled to the bathroom
+		||QUESTION||
+Are Mary and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Mary and Daniel went to the bedroom
+John and Daniel travelled to the office
+		||QUESTION||
+Are John and Mary at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes
+		||STORY||
+Sandra and Mary travelled to the bedroom
+Mary and Daniel moved to the bathroom
+John and Mary went to the office
+Sandra and Mary moved to the kitchen
+Daniel travelled to the hallway
+Mary moved to the hallway
+Mary and Daniel went to the bedroom
+John and Daniel travelled to the office
+		||QUESTION||
+Are Daniel and Sandra at the same place?
+		||ANSWER||
+No
+		||PREDICTED||
+Yes

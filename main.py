@@ -1,5 +1,6 @@
 import os
 
+import numpy as np
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -57,13 +58,16 @@ def train(train_iter, model, optimizer, epochs, max_clip, valid_iter=None):
                 g['lr'] = g['lr']/2
 
 
-def eval(test_iter, model):
+def eval(test_iter, model, task):
     total_error = 0
     failed_tasks = []
 
     story_vocab = test_iter.dataset.fields['story'].vocab
     query_vocab = test_iter.dataset.fields['query'].vocab
     answer_vocab = test_iter.dataset.fields['answer'].vocab
+
+    failed_tests = ""
+
 
     for k, batch in enumerate(test_iter, start=1):
         story = batch.story
@@ -72,17 +76,42 @@ def eval(test_iter, model):
         outputs = model(story, query)
         _, outputs = torch.max(outputs, -1)
         # log failed tasks
-        failed_tasks = failed_tasks + [    ([story_vocab.itos[s] for sublist in stry[0:3] for s in sublist if s != 0] ,
-                            [query_vocab.itos[s] for s in qry], 
-                            [answer_vocab.itos[s] for s in ans]) for i, (stry,qry,ans) 
-                        in enumerate(zip(story,query,answer)) 
-                        if outputs[i] != answer[i]]
-        
+        # failed_tasks = failed_tasks + [    ([story_vocab.itos[s] for sublist in stry[0:3] for s in sublist if s != 0] ,
+        #                     [query_vocab.itos[s] for s in qry], 
+        #                     [answer_vocab.itos[s] for s in ans]) for i, (stry,qry,ans) 
+        #                 in enumerate(zip(story,query,answer)) 
+        #                 if outputs[i] != answer[i]]
+        failed_tasks = np.where(outputs != answer.view(-1))[0]
+
+        if len(failed_tasks) > 0:
+            failed_stories = [[' '.join([story_vocab.itos[x] for x in sublist if x != 0]) for sublist in astory if not all(i == 0 for i in sublist) ] for astory in story[failed_tasks] ]
+            failed_queries = [' '.join([query_vocab.itos[x] for x in question]) for question in query[failed_tasks] ]
+            failed_answers = [answer_vocab.itos[question]  for question in answer[failed_tasks] ]
+            failed_predictions = [answer_vocab.itos[question] for question in outputs[failed_tasks] ]
+
+            for i in range(len(failed_tasks)):
+                context = '\n'.join(failed_stories[i])
+                _query = failed_queries[i] + '?'
+                _answer = failed_answers[i]
+                _prediction = failed_predictions[i]
+
+                failed_tests += "\t\t||STORY||\n"
+                failed_tests += context + '\n'
+                failed_tests += "\t\t||QUESTION||\n"
+                failed_tests += _query + '\n'
+                failed_tests += "\t\t||ANSWER||\n"
+                failed_tests += _answer + '\n'
+                failed_tests += "\t\t||PREDICTED||\n"
+                failed_tests += _prediction + '\n'
+
 
         total_error += torch.mean((outputs != answer.view(-1)).float()).item()
     
     # save failed_tasks to file:
-    
+    if failed_tests != "":
+        with open('.failed_tasks/'+f'task_{task}.txt', 'w') as f:
+            f.write(failed_tests)
+
     print("#! average error: {:5.1f}".format(total_error / k * 100))
 
 
@@ -113,4 +142,4 @@ def run(config):
 
     print("#! testing...")
     with torch.no_grad():
-        eval(test_iter, model)
+        eval(test_iter, model, config.task)
