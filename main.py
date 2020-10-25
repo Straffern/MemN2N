@@ -67,6 +67,7 @@ def eval(test_iter, model, task):
     answer_vocab = test_iter.dataset.fields['answer'].vocab
 
     failed_tests = ""
+    passed_tests = ""
 
 
     for k, batch in enumerate(test_iter, start=1):
@@ -82,6 +83,7 @@ def eval(test_iter, model, task):
         #                 in enumerate(zip(story,query,answer)) 
         #                 if outputs[i] != answer[i]]
         failed_tasks = np.where(outputs != answer.view(-1))[0]
+        passed_tasks = np.where(outputs == answer.view(-1))[0]
 
         if len(failed_tasks) > 0:
             failed_stories = [[' '.join([story_vocab.itos[x] for x in sublist if x != 0]) for sublist in astory if not all(i == 0 for i in sublist) ] for astory in story[failed_tasks] ]
@@ -103,7 +105,27 @@ def eval(test_iter, model, task):
                 failed_tests += _answer + '\n'
                 failed_tests += "\t\t||PREDICTED||\n"
                 failed_tests += _prediction + '\n'
+        #
+        # Creates list of passed tasks
+            passed_stories = [[' '.join([story_vocab.itos[x] for x in sublist if x != 0]) for sublist in astory if not all(i == 0 for i in sublist) ] for astory in story[passed_tasks] ]
+            passed_queries = [' '.join([query_vocab.itos[x] for x in question]) for question in query[passed_tasks] ]
+            passed_answers = [answer_vocab.itos[question]  for question in answer[passed_tasks] ]
+            passed_predictions = [answer_vocab.itos[question] for question in outputs[passed_tasks] ]
 
+            for i in range(len(passed_tasks)):
+                context = '\n'.join(passed_stories[i])
+                _query = passed_queries[i] + '?'
+                _answer = passed_answers[i]
+                _prediction = passed_predictions[i]
+
+                passed_tests += "\t\t||STORY||\n"
+                passed_tests += context + '\n'
+                passed_tests += "\t\t||QUESTION||\n"
+                passed_tests += _query + '\n'
+                passed_tests += "\t\t||ANSWER||\n"
+                passed_tests += _answer + '\n'
+                passed_tests += "\t\t||PREDICTED||\n"
+                passed_tests += _prediction + '\n'
 
         total_error += torch.mean((outputs != answer.view(-1)).float()).item()
     
@@ -111,6 +133,10 @@ def eval(test_iter, model, task):
     if failed_tests != "":
         with open('.failed_tasks/'+f'task_{task}.txt', 'w') as f:
             f.write(failed_tests)
+       # save passed_tasks to file:
+    if passed_tests != "":
+        with open('.passed_tasks/'+f'task_{task}.txt', 'w') as f:
+            f.write(passed_tests)
 
     print("#! average error: {:5.1f}".format(total_error / k * 100))
 
